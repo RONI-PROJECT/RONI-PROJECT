@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0d,100:17171e&height=200&section=header&text=RONI-PROJECT&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Full-stack%20Developer%20%F0%9F%87%AE%F0%9F%87%A9&descAlignY=60&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0d,100:17171e&height=200&section=header&text=RONI-PROJECT&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Full-stack%20Developer&descAlignY=60&descSize=18)
 
 </div>
 
@@ -50,8 +50,6 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=RONI-PROJECT&show_icons=true&theme=dark&bg_color=0a0a0d&title_color=ffffff&text_color=e5e5e8&icon_color=ffffff&border_color=2a2a35&include_all_commits=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RONI-PROJECT&layout=compact&theme=dark&bg_color=0a0a0d&title_color=ffffff&text_color=e5e5e8&border_color=2a2a35)
-
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=RONI-PROJECT&theme=dark&background=0a0a0d&stroke=2a2a35&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=e5e5e8&currStreakLabel=8b8b96&sideLabels=8b8b96&dates=6b6b78)
 
 </div>
@@ -63,14 +61,13 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-RONI--PROJECT-0a0a0d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RONI-PROJECT)
+[![Repos](https://img.shields.io/badge/Repositories-View_All-0a0a0d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RONI-PROJECT?tab=repositories)
 
 </div>
 
 ---
 
 <div align="center">
-
-![Views](https://komarev.com/ghpvc/?username=RONI-PROJECT&style=for-the-badge&color=0a0a0d&label=PROFILE+VIEWS)
 
 **🇮🇩 Made in Indonesia**
 
